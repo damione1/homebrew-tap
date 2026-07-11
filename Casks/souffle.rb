@@ -4,7 +4,7 @@ cask "souffle" do
 
   url "https://github.com/damione1/souffle/releases/download/v#{version}/Souffle_#{version}_aarch64.dmg"
   name "Soufflé"
-  desc "Private, local, on-device speech-to-text app for macOS"
+  desc "Private, local, on-device speech-to-text app"
   homepage "https://github.com/damione1/souffle"
 
   livecheck do
