@@ -1,6 +1,6 @@
 cask "souffle" do
-  version "0.15.0"
-  sha256 "037e9ddd7de3c30fdd6f0fdb3ecd4e96b5438d964c412c2482b2e74b50dffed0"
+  version "0.15.1"
+  sha256 "ce8ede30c62ebacef3c30b92acedf53983103b0ae813b52c18d05556bbabdea4"
 
   url "https://github.com/damione1/souffle/releases/download/v#{version}/Souffle_#{version}_aarch64.dmg"
   name "Soufflé"
