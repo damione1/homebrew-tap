@@ -1,8 +1,8 @@
 cask "souffle" do
-  version "0.15.1"
-  sha256 "ce8ede30c62ebacef3c30b92acedf53983103b0ae813b52c18d05556bbabdea4"
+  version "0.17.0"
+  sha256 "abb110060dfdd2be0a52b7f0bf21bc651dd32a7feab3d5a19a456bb0e85ef2dd"
 
-  url "https://github.com/damione1/souffle/releases/download/v#{version}/Souffle_#{version}_aarch64.dmg"
+  url "https://github.com/damione1/souffle/releases/download/v#{version}/Souffle.dmg"
   name "Soufflé"
   desc "Private, local, on-device speech-to-text app"
   homepage "https://github.com/damione1/souffle"
